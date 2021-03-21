@@ -1,0 +1,30 @@
+h1{ 
+	text-align: center;
+	margin-top: 10px;
+	
+	font-size: 17pt;
+}
+
+#area1{border: 2px solid #666666;min-width: 100px;min-height: 400px;background-color: white;margin-left: 30%;margin-right: 30%;
+	   border-bottom: 10 em;border-radius: 2em;margin-top: 5%;}
+	   
+#area2{border-bottom: 10 em
+	
+}
+
+.cssdesign{border: 2px solid #666666;width: 300px;height: 30px;margin-left: 100px;margin-top: 60px;font-size: 12pt;border-radius: 2em;
+	text-align: center;}
+
+.cssdesign1{border: 2px solid #666666;width: 300px;height: 30px;margin-left: 100px;margin-top: 15px;font-size: 12pt;border-radius: 2em;
+	text-align: center;}
+
+.cssdesign3{border: 2px solid #666666;width: 300px;height: 30px;margin-left: 100px;margin-top: 16px;font-size: 12pt;border-radius: 2em;
+	text-align: center;}
+
+.cssdesign4{border: 2px solid #666666;width: 300px;height: 30px;margin-left: 100px;margin-top: 17px;font-size: 12pt;border-radius: 2em;
+	text-align: center;
+}
+
+.button {border: 2px;color: gray;padding: 7px 16px;text-align: center;text-decoration: none;display: inline-block;margin-left: 100px;
+  margin-top: 40px;font-size: 9pt;border-radius: 2em /*Rundungen*/;
+}
