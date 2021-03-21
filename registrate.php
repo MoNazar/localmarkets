@@ -1,9 +1,9 @@
 <?php
 //Database Connection 
-$servername = "localhost";
-$username = "ecommerceiq_Admin";
-$password = "Pacideniro3838!!";
-$databasename = "ecommerceiq_ClientData";
+$servername = "";
+$username = "";
+$password = "";
+$databasename = "";
 
 $connection = mysqli_connect($servername, $username, $password, $databasename);
 
